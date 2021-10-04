@@ -1,0 +1,62 @@
+[ 
+        {
+           "id":"80801",
+            "title":"C Programming", 
+           "image":"https://www.shoutcoders.com/wp-content/uploads/2020/02/C-programming.png",
+           "price":"Free",
+          "description":"C is a general-purpose, procedural computer programming language supporting structured programming, lexical variable scope, and recursion, with a static type system. By design, C provides constructs that map efficiently to typical machine instructions."
+        },
+        {
+           "id":"80802",
+         "title":"C++ and Java", 
+          "image":"https://i.pinimg.com/originals/90/59/b0/9059b0d9961e38ded258d6106c1f991c.png",
+            "price":"100$/yearly",
+            "description":"This is intermediate level course. Mainly for who has knowledge about programming. C++ and Java both are object-oriented programming languages.C++ is derived from C and has the features of both procedural and object-oriented programming languages. C++ was designed for application and System development. Java is built upon a virtual machine which is very secure and highly portable in nature."
+        },
+        {
+            "id":"80803",
+            "title":"Python and JavaScript" ,
+            "image":"https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/195361198/original/8987904a6bdb70bdfd4b649367ae07020913c063/teach-you-python-and-javascript.png",
+            "price":"200$/yearly",
+            "description":"This is advance course. Mainly for who has knowledge about programming.  Both language has a great future.Python mainly use for data science and artificial intelligence. On the other hand Javascript is considered for web apps , server apps. According to research, developers are turning into JavaScript for its awesome front-end framework and back-end as well."
+        },
+        {
+           "id":"80804",
+            "title":"Mircosoft Excell" ,
+            "image":"data:image/png;base64,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",
+            "price":"120$/yearly",
+            "description":"Microsoft Excel is a spreadsheet developed by Microsoft for Windows, macOS, Android and iOS. It features calculation, graphing tools, pivot tables, and a macro programming language called Visual Basic for Applications."
+        },
+        {
+           "id":"80805",
+            "title":"Graphics Design" ,
+            "image":"https://i0.wp.com/www.graphic-design-institute.com/wp-content/uploads/2020/02/the-best-applications-to-learn-as-a-graphics-designer.jpg?fit=1200%2C800&ssl=1",
+            "price":"100$/yearly",
+            "description":"Graphic design is a craft where professionals create visual content to communicate messages. By applying visual hierarchy and page layout techniques, designers use typography and pictures to meet users' specific needs and focus on the logic of displaying elements in interactive designs, to optimize the user experience."
+        },
+        {
+           "id":"80806",
+            "title":"Data science" ,
+            "image":"https://s27389.pcdn.co/wp-content/uploads/2021/07/data-science-predictions-for-near-future-1024x440.jpeg.optimal.jpeg",
+            "price":"300$/yearly",
+            "description":"Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems to extract knowledge and insights from noisy, structured and unstructured data, and apply knowledge and actionable insights from data across a broad range of application domains."
+            
+        },
+        {
+           "id":"80807",
+            "title":"Digital Marketing" ,
+            "image":"https://siit.com.bd/wp-content/uploads/2019/12/digital-markting.jpg",
+            "price":"200$/yearly",
+            "description":"Digital marketing is the component of marketing that utilizes internet and online based digital technologies such as desktop computers, mobile phones and other digital media and platforms to promote products and services."
+        },
+        {
+           "id":"80808",
+            "title":"Php course" ,
+            "image":"https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/PHP-logo.svg/2560px-PHP-logo.svg.png",
+            "price":"200$/yearly",
+            "description":"PHP is a general-purpose scripting language geared towards web development. It was originally created by Danish-Canadian programmer Rasmus Lerdorf in 1994. The PHP reference implementation is now produced by The PHP Group. "
+        }
+        
+
+
+     ] 

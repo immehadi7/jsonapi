@@ -1,0 +1,49 @@
+[
+  {
+    "id":"50401",
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdaAvWgIGFBy_LEoPksTspncrQAjxZCKL-gg&usqp=CAU",
+    "name": "Dr. Mark ",
+    "degree":"MBBS ,FCPS",
+    "hospitalName":"Savar Hospital" 
+  } , 
+  {
+    "id":"50402",
+    "image":"https://simshospitals.com/nungambakkam/wp-content/uploads/2020/01/dr-k-subramaniuan-senior-consultant.jpg",
+    "name": "Dr Jasson",
+    "degree":"MBBS, Cardiology",
+    "hospitalName":"Chennay Hospital , India"
+  } , 
+  {
+    "id":"50403",
+    "image":"https://st2.depositphotos.com/4460577/7582/i/600/depositphotos_75822969-stock-photo-portrait-of-a-young-male.jpg",
+    "name": "Dr Rickson",
+    "degree":"MBBS in Medicine",
+    "hospitalName":"Dubai Hospital"
+  } , 
+  {
+    "id":"50404",
+    "image":"https://img.freepik.com/free-photo/female-doctor-hospital-with-stethoscope_23-2148827775.jpg?size=626&ext=jpg",
+    "name": "Dr Riya",
+    "degree":"MBBS",
+    "hospitalName":"Savar Hospital"
+  } 
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  ]

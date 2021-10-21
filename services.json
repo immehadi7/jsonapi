@@ -1,0 +1,37 @@
+[
+  {
+    "id": "111",
+    "images": "fas fa-tooth fa-3x",
+    "Title": "Dental Implements",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+  },
+  {
+    "id":" 112",
+    "images": "fas fa-university fa-3x",
+    "Title": "Blood Bank",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+  },
+  {
+    "id":" 113",
+    "images": "fas fa-pills fa-3x",
+    "Title": "Medicine Research",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+  },
+  {
+    "id":" 114",
+    "images": "fas fa-prescription-bottle-alt fa-3x",   
+     "Title": "Pharmaceutical Advice",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+  },
+  {
+    "id":" 115",
+    "images": "fas fa-laptop-medical fa-3x",
+    "Title": "Medical Counseling",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+  }, {
+    "id":" 116",
+    "images": "fas fa-prescription-bottle-alt fa-3x",   
+     "Title": "Pharmaceutical Advice",
+    "details": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. "
+  }
+]

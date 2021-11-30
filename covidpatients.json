@@ -1,0 +1,73 @@
+[
+  {
+    "name":"Jon" ,
+    "id":"209140001" ,
+    "image":"https://menlocoa.org/wp-content/uploads/2012/10/Tinyen-RSp.jpg",
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Abram" ,
+    "id":"206212221" ,
+    "image":"https://www.whsthelancelot.com/wp-content/uploads/2014/12/photo.jpg",
+    "covidPatient":"yes" ,
+    "readyForPlasma":"no" 
+  },
+  {
+    "name":"shantman" ,
+    "id":"2021222165" ,
+    "image":"https://roncallimedia.com/wp-content/uploads/2017/02/IMG_8500-900x600.jpg",
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"no" 
+  },
+  {
+    "name":"Devid" ,
+    "id":"202124" ,
+    "image":"https://www.parentmap.com/images/article/9390/Avvo-drug-test-teen-istock.jpg",
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Emam" ,
+    "id":"20212211" ,
+    "image":"https://i.dailymail.co.uk/i/pix/2013/09/26/article-0-1845993200000578-671_634x539.jpg",
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Azhar" ,
+    "id":"202112221" ,
+    "image":"https://i.pinimg.com/originals/ad/3d/5f/ad3d5f6c8a70da21077bf66d20ff9839.png",
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Azam" ,
+    "id":"2032126221" ,
+    "image":"https://duncanroy.files.wordpress.com/2012/09/20120915-081324.jpg",
+    "covidPatient":"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Imad",
+    "id":"230212221" ,
+    "image":"https://i.pinimg.com/originals/7c/d2/f3/7cd2f38db862b2c1147b75deaf0f52e6.jpg",
+    "covidPatient":"yes" ,
+    "readyForPlasma":"no" 
+  },
+  {
+    "name":"Sakib",
+    "id":"208212221" ,
+    "image":"https://i.pinimg.com/originals/57/62/5d/57625d4b48519b9e583b4fa60dd31588.jpg",
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  ]

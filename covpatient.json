@@ -1,0 +1,64 @@
+[
+  {
+    "name":"Jon" ,
+    "id":"209140001" ,
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Abram" ,
+    "id":"206212221" ,
+    "covidPatient":"yes" ,
+    "readyForPlasma":"no" 
+  },
+  {
+    "name":"shantman" ,
+    "id":"2021222165" ,
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"no" 
+  },
+  {
+    "name":"Devid" ,
+    "id":"202124" ,
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Emam" ,
+    "id":"20212211" ,
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Azhar" ,
+    "id":"202112221" ,
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Azam" ,
+    "id":"2032126221" ,
+    "covidPatient":"yes" ,
+    "readyForPlasma":"yes" 
+  },
+  {
+    "name":"Imad",
+    "id":"230212221" ,
+    "covidPatient":"yes" ,
+    "readyForPlasma":"no" 
+  },
+  {
+    "name":"Sakib",
+    "id":"208212221" ,
+    "covidPatient" :"yes" ,
+    "readyForPlasma":"yes" 
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  ]
